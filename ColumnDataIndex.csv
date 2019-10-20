@@ -1,0 +1,75 @@
+,column_name,table
+0,ID,All csv tables
+1,Name,PlayerPersonalData
+2,Age,PlayerPersonalData
+3,Photo,PlayerPersonalData
+4,Nationality,PlayerPersonalData
+5,Flag,PlayerPersonalData
+6,Overall,PlayerPersonalData
+7,Potential,PlayerPersonalData
+8,Club,PlayerPersonalData
+9,Club Logo,PlayerPersonalData
+10,Value,PlayerPersonalData
+11,Wage,PlayerPersonalData
+12,Special,PlayerPersonalData
+13,Acceleration,PlayerAttributeData
+14,Aggression,PlayerAttributeData
+15,Agility,PlayerAttributeData
+16,Balance,PlayerAttributeData
+17,Ball control,PlayerAttributeData
+18,Composure,PlayerAttributeData
+19,Crossing,PlayerAttributeData
+20,Curve,PlayerAttributeData
+21,Dribbling,PlayerAttributeData
+22,Finishing,PlayerAttributeData
+23,Free kick accuracy,PlayerAttributeData
+24,GK diving,PlayerAttributeData
+25,GK handling,PlayerAttributeData
+26,GK kicking,PlayerAttributeData
+27,GK positioning,PlayerAttributeData
+28,GK reflexes,PlayerAttributeData
+29,Heading accuracy,PlayerAttributeData
+30,Interceptions,PlayerAttributeData
+31,Jumping,PlayerAttributeData
+32,Long passing,PlayerAttributeData
+33,Long shots,PlayerAttributeData
+34,Marking,PlayerAttributeData
+35,Penalties,PlayerAttributeData
+36,Positioning,PlayerAttributeData
+37,Reactions,PlayerAttributeData
+38,Short passing,PlayerAttributeData
+39,Shot power,PlayerAttributeData
+40,Sliding tackle,PlayerAttributeData
+41,Sprint speed,PlayerAttributeData
+42,Stamina,PlayerAttributeData
+43,Standing tackle,PlayerAttributeData
+44,Strength,PlayerAttributeData
+45,Vision,PlayerAttributeData
+46,Volleys,PlayerAttributeData
+47,CAM,PlayerPlayingPositionData
+48,CB,PlayerPlayingPositionData
+49,CDM,PlayerPlayingPositionData
+50,CF,PlayerPlayingPositionData
+51,CM,PlayerPlayingPositionData
+52,LAM,PlayerPlayingPositionData
+53,LB,PlayerPlayingPositionData
+54,LCB,PlayerPlayingPositionData
+55,LCM,PlayerPlayingPositionData
+56,LDM,PlayerPlayingPositionData
+57,LF,PlayerPlayingPositionData
+58,LM,PlayerPlayingPositionData
+59,LS,PlayerPlayingPositionData
+60,LW,PlayerPlayingPositionData
+61,LWB,PlayerPlayingPositionData
+62,Preferred Positions,PlayerPlayingPositionData
+63,RAM,PlayerPlayingPositionData
+64,RB,PlayerPlayingPositionData
+65,RCB,PlayerPlayingPositionData
+66,RCM,PlayerPlayingPositionData
+67,RDM,PlayerPlayingPositionData
+68,RF,PlayerPlayingPositionData
+69,RM,PlayerPlayingPositionData
+70,RS,PlayerPlayingPositionData
+71,RW,PlayerPlayingPositionData
+72,RWB,PlayerPlayingPositionData
+73,ST,PlayerPlayingPositionData
