@@ -19,3 +19,9 @@ CompleteCSVDataset.csv: is the result of join PlayerPersonalData.csv, PlayerAttr
 ColumnDataIndex.csv: is a table or dataframe, that contains all the column names from CompleteCSVDataset.csv in the first column and the original table where the column comes from is in the second column.
 
 #### Notebook: 1-2-join_JSON.ipynb
+
+In this notebook the 3 json files were joined into one table, the json files were transform into a list of document and the function json_normalize was used to transform it in dataframes
+
+CompleteJSONDataset.csv: is the result of join languages.json, countries.json and continents.json in one data frame.
+
+#### Notebook: 1-3ExploratoryAnalisys.ipynb
