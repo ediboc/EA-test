@@ -1,0 +1,366 @@
+ID_ctlg,ID_country,ID_language,Total_languages,ID_continent,country_name,language_name,continent_name
+ADca,AD,ca,1,EU,Andorra,Catalan,Europe
+ESca,ES,ca,5,EU,Spain,Catalan,Europe
+GBen,GB,en,1,EU,United Kingdom,English,Europe
+GGen,GG,en,2,EU,Guernsey,English,Europe
+GIen,GI,en,1,EU,Gibraltar,English,Europe
+IEen,IE,en,2,EU,Ireland,English,Europe
+IMen,IM,en,2,EU,Isle of Man,English,Europe
+JEen,JE,en,2,EU,Jersey,English,Europe
+MTen,MT,en,2,EU,Malta,English,Europe
+ALsq,AL,sq,1,EU,Albania,Albanian,Europe
+MEsq,ME,sq,4,EU,Montenegro,Albanian,Europe
+XKsq,XK,sq,2,EU,Kosovo,Albanian,Europe
+CYhy,CY,hy,3,EU,Cyprus,Armenian,Europe
+BYru,BY,ru,2,EU,Belarus,Russian,Europe
+RUru,RU,ru,1,EU,Russia,Russian,Europe
+PTpt,PT,pt,1,EU,Portugal,Portuguese,Europe
+ESes,ES,es,5,EU,Spain,Spanish,Europe
+ATde,AT,de,1,EU,Austria,German,Europe
+BEde,BE,de,3,EU,Belgium,German,Europe
+CHde,CH,de,3,EU,Switzerland,German,Europe
+DEde,DE,de,1,EU,Germany,German,Europe
+LIde,LI,de,1,EU,Liechtenstein,German,Europe
+LUde,LU,de,3,EU,Luxembourg,German,Europe
+BEnl,BE,nl,3,EU,Belgium,Dutch,Europe
+NLnl,NL,nl,1,EU,Netherlands,Dutch,Europe
+AXsv,AX,sv,1,EU,Åland,Swedish,Europe
+FIsv,FI,sv,2,EU,Finland,Swedish,Europe
+SEsv,SE,sv,1,EU,Sweden,Swedish,Europe
+BAbs,BA,bs,3,EU,Bosnia and Herzegovina,Bosnian,Europe
+MEbs,ME,bs,4,EU,Montenegro,Bosnian,Europe
+BAhr,BA,hr,3,EU,Bosnia and Herzegovina,Croatian,Europe
+HRhr,HR,hr,1,EU,Croatia,Croatian,Europe
+MEhr,ME,hr,4,EU,Montenegro,Croatian,Europe
+BAsr,BA,sr,3,EU,Bosnia and Herzegovina,Serbian,Europe
+MEsr,ME,sr,4,EU,Montenegro,Serbian,Europe
+RSsr,RS,sr,1,EU,Serbia,Serbian,Europe
+XKsr,XK,sr,2,EU,Kosovo,Serbian,Europe
+BEfr,BE,fr,3,EU,Belgium,French,Europe
+CHfr,CH,fr,3,EU,Switzerland,French,Europe
+FRfr,FR,fr,1,EU,France,French,Europe
+GGfr,GG,fr,2,EU,Guernsey,French,Europe
+JEfr,JE,fr,2,EU,Jersey,French,Europe
+LUfr,LU,fr,3,EU,Luxembourg,French,Europe
+MCfr,MC,fr,1,EU,Monaco,French,Europe
+BGbg,BG,bg,1,EU,Bulgaria,Bulgarian,Europe
+NOno,NO,no,3,EU,Norway,Norwegian,Europe
+SJno,SJ,no,1,EU,Svalbard and Jan Mayen,Norwegian,Europe
+NOnn,NO,nn,3,EU,Norway,Norwegian Nynorsk,Europe
+BYbe,BY,be,2,EU,Belarus,Belarusian,Europe
+CHit,CH,it,3,EU,Switzerland,Italian,Europe
+ITit,IT,it,1,EU,Italy,Italian,Europe
+SMit,SM,it,1,EU,San Marino,Italian,Europe
+VAit,VA,it,2,EU,Vatican City,Italian,Europe
+CYel,CY,el,3,EU,Cyprus,Greek,Europe
+GRel,GR,el,1,EU,Greece,Greek,Europe
+CYtr,CY,tr,3,EU,Cyprus,Turkish,Europe
+CZcs,CZ,cs,2,EU,Czech Republic,Czech,Europe
+CZsk,CZ,sk,2,EU,Czech Republic,Slovak,Europe
+SKsk,SK,sk,1,EU,Slovakia,Slovak,Europe
+DKda,DK,da,1,EU,Denmark,Danish,Europe
+EEet,EE,et,1,EU,Estonia,Estonian,Europe
+ESeu,ES,eu,5,EU,Spain,Basque,Europe
+ESgl,ES,gl,5,EU,Spain,Galician,Europe
+ESoc,ES,oc,5,EU,Spain,Occitan,Europe
+FIfi,FI,fi,2,EU,Finland,Finnish,Europe
+FOfo,FO,fo,1,EU,Faroe Islands,Faroese,Europe
+HUhu,HU,hu,1,EU,Hungary,Hungarian,Europe
+IEga,IE,ga,2,EU,Ireland,Irish,Europe
+IMgv,IM,gv,2,EU,Isle of Man,Manx,Europe
+ISis,IS,is,1,EU,Iceland,Icelandic,Europe
+LTlt,LT,lt,1,EU,Lithuania,Lithuanian,Europe
+LUlb,LU,lb,3,EU,Luxembourg,Luxembourgish,Europe
+LVlv,LV,lv,1,EU,Latvia,Latvian,Europe
+MDro,MD,ro,1,EU,Moldova,Romanian,Europe
+ROro,RO,ro,1,EU,Romania,Romanian,Europe
+MKmk,MK,mk,1,EU,North Macedonia,Macedonian,Europe
+MTmt,MT,mt,2,EU,Malta,Maltese,Europe
+PLpl,PL,pl,1,EU,Poland,Polish,Europe
+SIsl,SI,sl,1,EU,Slovenia,Slovenian,Europe
+UAuk,UA,uk,1,EU,Ukraine,Ukrainian,Europe
+VAla,VA,la,2,EU,Vatican City,Latin,Europe
+AEar,AE,ar,1,AS,United Arab Emirates,Arabic,Asia
+BHar,BH,ar,1,AS,Bahrain,Arabic,Asia
+ILar,IL,ar,2,AS,Israel,Arabic,Asia
+IQar,IQ,ar,2,AS,Iraq,Arabic,Asia
+JOar,JO,ar,1,AS,Jordan,Arabic,Asia
+KWar,KW,ar,1,AS,Kuwait,Arabic,Asia
+LBar,LB,ar,2,AS,Lebanon,Arabic,Asia
+OMar,OM,ar,1,AS,Oman,Arabic,Asia
+PSar,PS,ar,1,AS,Palestine,Arabic,Asia
+QAar,QA,ar,1,AS,Qatar,Arabic,Asia
+SAar,SA,ar,1,AS,Saudi Arabia,Arabic,Asia
+SYar,SY,ar,1,AS,Syria,Arabic,Asia
+YEar,YE,ar,1,AS,Yemen,Arabic,Asia
+AFps,AF,ps,3,AS,Afghanistan,Pashto,Asia
+AFuz,AF,uz,3,AS,Afghanistan,Uzbek,Asia
+UZuz,UZ,uz,2,AS,Uzbekistan,Uzbek,Asia
+AFtk,AF,tk,3,AS,Afghanistan,Turkmen,Asia
+TMtk,TM,tk,2,AS,Turkmenistan,Turkmen,Asia
+CCen,CC,en,1,AS,Cocos [Keeling] Islands,English,Asia
+CXen,CX,en,1,AS,Christmas Island,English,Asia
+HKen,HK,en,2,AS,Hong Kong,English,Asia
+INen,IN,en,2,AS,India,English,Asia
+IOen,IO,en,1,AS,British Indian Ocean Territory,English,Asia
+PHen,PH,en,1,AS,Philippines,English,Asia
+PKen,PK,en,2,AS,Pakistan,English,Asia
+SGen,SG,en,4,AS,Singapore,English,Asia
+AMhy,AM,hy,2,AS,Armenia,Armenian,Asia
+AMru,AM,ru,2,AS,Armenia,Russian,Asia
+KGru,KG,ru,2,AS,Kyrgyzstan,Russian,Asia
+KZru,KZ,ru,2,AS,Kazakhstan,Russian,Asia
+TJru,TJ,ru,2,AS,Tajikistan,Russian,Asia
+TMru,TM,ru,2,AS,Turkmenistan,Russian,Asia
+UZru,UZ,ru,2,AS,Uzbekistan,Russian,Asia
+MOpt,MO,pt,2,AS,Macao,Portuguese,Asia
+AZaz,AZ,az,1,AS,Azerbaijan,Azerbaijani,Asia
+BDbn,BD,bn,1,AS,Bangladesh,Bengali,Asia
+LBfr,LB,fr,2,AS,Lebanon,French,Asia
+BNms,BN,ms,1,AS,Brunei,Malay,Asia
+MYms,MY,ms,1,AS,Malaysia,Malay,Asia
+SGms,SG,ms,4,AS,Singapore,Malay,Asia
+BTdz,BT,dz,1,AS,Bhutan,Dzongkha,Asia
+CNzh,CN,zh,1,AS,China,Chinese,Asia
+HKzh,HK,zh,2,AS,Hong Kong,Chinese,Asia
+MOzh,MO,zh,2,AS,Macao,Chinese,Asia
+SGzh,SG,zh,4,AS,Singapore,Chinese,Asia
+TWzh,TW,zh,1,AS,Taiwan,Chinese,Asia
+TRtr,TR,tr,1,AS,Turkey,Turkish,Asia
+INhi,IN,hi,2,AS,India,Hindi,Asia
+PKur,PK,ur,2,AS,Pakistan,Urdu,Asia
+GEka,GE,ka,1,AS,Georgia,Georgian,Asia
+IDid,ID,id,1,AS,Indonesia,Indonesian,Asia
+ILhe,IL,he,2,AS,Israel,Hebrew,Asia
+IQku,IQ,ku,2,AS,Iraq,Kurdish,Asia
+IRfa,IR,fa,1,AS,Iran,Persian,Asia
+JPja,JP,ja,1,AS,Japan,Japanese,Asia
+KGky,KG,ky,2,AS,Kyrgyzstan,Kirghiz,Asia
+KHkm,KH,km,1,AS,Cambodia,Cambodian,Asia
+KPko,KP,ko,1,AS,North Korea,Korean,Asia
+KRko,KR,ko,1,AS,South Korea,Korean,Asia
+KZkk,KZ,kk,2,AS,Kazakhstan,Kazakh,Asia
+LAlo,LA,lo,1,AS,Laos,Laotian,Asia
+LKsi,LK,si,2,AS,Sri Lanka,Sinhalese,Asia
+LKta,LK,ta,2,AS,Sri Lanka,Tamil,Asia
+SGta,SG,ta,4,AS,Singapore,Tamil,Asia
+MMmy,MM,my,1,AS,Myanmar [Burma],Burmese,Asia
+MNmn,MN,mn,1,AS,Mongolia,Mongolian,Asia
+MVdv,MV,dv,1,AS,Maldives,Divehi,Asia
+NPne,NP,ne,1,AS,Nepal,Nepali,Asia
+THth,TH,th,1,AS,Thailand,Thai,Asia
+TJtg,TJ,tg,2,AS,Tajikistan,Tajik,Asia
+VNvi,VN,vi,1,AS,Vietnam,Vietnamese,Asia
+DJar,DJ,ar,2,AF,Djibouti,Arabic,Africa
+DZar,DZ,ar,1,AF,Algeria,Arabic,Africa
+EGar,EG,ar,1,AF,Egypt,Arabic,Africa
+ERar,ER,ar,3,AF,Eritrea,Arabic,Africa
+KMar,KM,ar,2,AF,Comoros,Arabic,Africa
+LYar,LY,ar,1,AF,Libya,Arabic,Africa
+MAar,MA,ar,1,AF,Morocco,Arabic,Africa
+MRar,MR,ar,1,AF,Mauritania,Arabic,Africa
+SDar,SD,ar,2,AF,Sudan,Arabic,Africa
+SOar,SO,ar,2,AF,Somalia,Arabic,Africa
+TDar,TD,ar,2,AF,Chad,Arabic,Africa
+TNar,TN,ar,1,AF,Tunisia,Arabic,Africa
+BWen,BW,en,2,AF,Botswana,English,Africa
+CMen,CM,en,2,AF,Cameroon,English,Africa
+ERen,ER,en,3,AF,Eritrea,English,Africa
+GHen,GH,en,1,AF,Ghana,English,Africa
+GMen,GM,en,1,AF,Gambia,English,Africa
+KEen,KE,en,2,AF,Kenya,English,Africa
+LRen,LR,en,1,AF,Liberia,English,Africa
+LSen,LS,en,2,AF,Lesotho,English,Africa
+MUen,MU,en,1,AF,Mauritius,English,Africa
+MWen,MW,en,2,AF,Malawi,English,Africa
+NAen,NA,en,2,AF,Namibia,English,Africa
+NGen,NG,en,1,AF,Nigeria,English,Africa
+RWen,RW,en,3,AF,Rwanda,English,Africa
+SCen,SC,en,2,AF,Seychelles,English,Africa
+SDen,SD,en,2,AF,Sudan,English,Africa
+SHen,SH,en,1,AF,Saint Helena,English,Africa
+SLen,SL,en,1,AF,Sierra Leone,English,Africa
+SSen,SS,en,1,AF,South Sudan,English,Africa
+SZen,SZ,en,2,AF,Swaziland,English,Africa
+TZen,TZ,en,2,AF,Tanzania,English,Africa
+UGen,UG,en,2,AF,Uganda,English,Africa
+ZAen,ZA,en,10,AF,South Africa,English,Africa
+ZMen,ZM,en,1,AF,Zambia,English,Africa
+ZWen,ZW,en,3,AF,Zimbabwe,English,Africa
+AOpt,AO,pt,1,AF,Angola,Portuguese,Africa
+CVpt,CV,pt,1,AF,Cape Verde,Portuguese,Africa
+GWpt,GW,pt,1,AF,Guinea-Bissau,Portuguese,Africa
+MZpt,MZ,pt,1,AF,Mozambique,Portuguese,Africa
+STpt,ST,pt,1,AF,São Tomé and Príncipe,Portuguese,Africa
+EHes,EH,es,1,AF,Western Sahara,Spanish,Africa
+GQes,GQ,es,2,AF,Equatorial Guinea,Spanish,Africa
+BFfr,BF,fr,2,AF,Burkina Faso,French,Africa
+BIfr,BI,fr,2,AF,Burundi,French,Africa
+BJfr,BJ,fr,1,AF,Benin,French,Africa
+CDfr,CD,fr,5,AF,Democratic Republic of the Congo,French,Africa
+CFfr,CF,fr,2,AF,Central African Republic,French,Africa
+CGfr,CG,fr,2,AF,Republic of the Congo,French,Africa
+CIfr,CI,fr,1,AF,Ivory Coast,French,Africa
+CMfr,CM,fr,2,AF,Cameroon,French,Africa
+DJfr,DJ,fr,2,AF,Djibouti,French,Africa
+GAfr,GA,fr,1,AF,Gabon,French,Africa
+GNfr,GN,fr,2,AF,Guinea,French,Africa
+GQfr,GQ,fr,2,AF,Equatorial Guinea,French,Africa
+KMfr,KM,fr,2,AF,Comoros,French,Africa
+MGfr,MG,fr,2,AF,Madagascar,French,Africa
+MLfr,ML,fr,1,AF,Mali,French,Africa
+NEfr,NE,fr,1,AF,Niger,French,Africa
+REfr,RE,fr,1,AF,Réunion,French,Africa
+RWfr,RW,fr,3,AF,Rwanda,French,Africa
+SCfr,SC,fr,2,AF,Seychelles,French,Africa
+SNfr,SN,fr,1,AF,Senegal,French,Africa
+TDfr,TD,fr,2,AF,Chad,French,Africa
+TGfr,TG,fr,1,AF,Togo,French,Africa
+YTfr,YT,fr,1,AF,Mayotte,French,Africa
+BFff,BF,ff,2,AF,Burkina Faso,Peul,Africa
+GNff,GN,ff,2,AF,Guinea,Peul,Africa
+BIrn,BI,rn,2,AF,Burundi,Kirundi,Africa
+BWtn,BW,tn,2,AF,Botswana,Tswana,Africa
+ZAtn,ZA,tn,10,AF,South Africa,Tswana,Africa
+CDln,CD,ln,5,AF,Democratic Republic of the Congo,Lingala,Africa
+CGln,CG,ln,2,AF,Republic of the Congo,Lingala,Africa
+CDkg,CD,kg,5,AF,Democratic Republic of the Congo,Kongo,Africa
+CDsw,CD,sw,5,AF,Democratic Republic of the Congo,Swahili,Africa
+KEsw,KE,sw,2,AF,Kenya,Swahili,Africa
+TZsw,TZ,sw,2,AF,Tanzania,Swahili,Africa
+UGsw,UG,sw,2,AF,Uganda,Swahili,Africa
+CFsg,CF,sg,2,AF,Central African Republic,Sango,Africa
+ERti,ER,ti,3,AF,Eritrea,Tigrinya,Africa
+ETam,ET,am,1,AF,Ethiopia,Amharic,Africa
+LSst,LS,st,2,AF,Lesotho,Southern Sotho,Africa
+ZAst,ZA,st,10,AF,South Africa,Southern Sotho,Africa
+MGmg,MG,mg,2,AF,Madagascar,Malagasy,Africa
+MWny,MW,ny,2,AF,Malawi,Chichewa,Africa
+NAaf,NA,af,2,AF,Namibia,Afrikaans,Africa
+ZAaf,ZA,af,10,AF,South Africa,Afrikaans,Africa
+RWrw,RW,rw,3,AF,Rwanda,Rwandi,Africa
+SOso,SO,so,2,AF,Somalia,Somalia,Africa
+SZss,SZ,ss,2,AF,Swaziland,Swati,Africa
+ZAss,ZA,ss,10,AF,South Africa,Swati,Africa
+ZAnr,ZA,nr,10,AF,South Africa,South Ndebele,Africa
+ZAts,ZA,ts,10,AF,South Africa,Tsonga,Africa
+ZAve,ZA,ve,10,AF,South Africa,Venda,Africa
+ZAxh,ZA,xh,10,AF,South Africa,Xhosa,Africa
+ZAzu,ZA,zu,10,AF,South Africa,Zulu,Africa
+ZWsn,ZW,sn,3,AF,Zimbabwe,Shona,Africa
+ZWnd,ZW,nd,3,AF,Zimbabwe,North Ndebele,Africa
+AGen,AG,en,1,NA,Antigua and Barbuda,English,North America
+AIen,AI,en,1,NA,Anguilla,English,North America
+BBen,BB,en,1,NA,Barbados,English,North America
+BMen,BM,en,1,NA,Bermuda,English,North America
+BSen,BS,en,1,NA,Bahamas,English,North America
+BZen,BZ,en,2,NA,Belize,English,North America
+CAen,CA,en,2,NA,Canada,English,North America
+CWen,CW,en,3,NA,Curacao,English,North America
+DMen,DM,en,1,NA,Dominica,English,North America
+GDen,GD,en,1,NA,Grenada,English,North America
+JMen,JM,en,1,NA,Jamaica,English,North America
+KNen,KN,en,1,NA,Saint Kitts and Nevis,English,North America
+KYen,KY,en,1,NA,Cayman Islands,English,North America
+LCen,LC,en,1,NA,Saint Lucia,English,North America
+MFen,MF,en,3,NA,Saint Martin,English,North America
+MSen,MS,en,1,NA,Montserrat,English,North America
+PRen,PR,en,2,NA,Puerto Rico,English,North America
+SXen,SX,en,2,NA,Sint Maarten,English,North America
+TCen,TC,en,1,NA,Turks and Caicos Islands,English,North America
+TTen,TT,en,1,NA,Trinidad and Tobago,English,North America
+USen,US,en,1,NA,United States,English,North America
+VCen,VC,en,1,NA,Saint Vincent and the Grenadines,English,North America
+VGen,VG,en,1,NA,British Virgin Islands,English,North America
+VIen,VI,en,1,NA,U.S. Virgin Islands,English,North America
+BZes,BZ,es,2,NA,Belize,Spanish,North America
+CRes,CR,es,1,NA,Costa Rica,Spanish,North America
+CUes,CU,es,1,NA,Cuba,Spanish,North America
+DOes,DO,es,1,NA,Dominican Republic,Spanish,North America
+GTes,GT,es,1,NA,Guatemala,Spanish,North America
+HNes,HN,es,1,NA,Honduras,Spanish,North America
+MXes,MX,es,1,NA,Mexico,Spanish,North America
+NIes,NI,es,1,NA,Nicaragua,Spanish,North America
+PAes,PA,es,1,NA,Panama,Spanish,North America
+PRes,PR,es,2,NA,Puerto Rico,Spanish,North America
+SVes,SV,es,1,NA,El Salvador,Spanish,North America
+AWnl,AW,nl,2,NA,Aruba,Dutch,North America
+BQnl,BQ,nl,1,NA,Bonaire,Dutch,North America
+CWnl,CW,nl,3,NA,Curacao,Dutch,North America
+MFnl,MF,nl,3,NA,Saint Martin,Dutch,North America
+SXnl,SX,nl,2,NA,Sint Maarten,Dutch,North America
+AWpa,AW,pa,2,NA,Aruba,Panjabi / Punjabi,North America
+CWpa,CW,pa,3,NA,Curacao,Panjabi / Punjabi,North America
+BLfr,BL,fr,1,NA,Saint Barthélemy,French,North America
+CAfr,CA,fr,2,NA,Canada,French,North America
+GPfr,GP,fr,1,NA,Guadeloupe,French,North America
+HTfr,HT,fr,2,NA,Haiti,French,North America
+MFfr,MF,fr,3,NA,Saint Martin,French,North America
+MQfr,MQ,fr,1,NA,Martinique,French,North America
+PMfr,PM,fr,1,NA,Saint Pierre and Miquelon,French,North America
+GLkl,GL,kl,1,NA,Greenland,Greenlandic,North America
+HTht,HT,ht,2,NA,Haiti,Haitian,North America
+ASen,AS,en,2,OC,American Samoa,English,Oceania
+AUen,AU,en,1,OC,Australia,English,Oceania
+CKen,CK,en,1,OC,Cook Islands,English,Oceania
+FJen,FJ,en,4,OC,Fiji,English,Oceania
+FMen,FM,en,1,OC,Micronesia,English,Oceania
+GUen,GU,en,3,OC,Guam,English,Oceania
+KIen,KI,en,1,OC,Kiribati,English,Oceania
+MHen,MH,en,2,OC,Marshall Islands,English,Oceania
+MPen,MP,en,2,OC,Northern Mariana Islands,English,Oceania
+NFen,NF,en,1,OC,Norfolk Island,English,Oceania
+NRen,NR,en,2,OC,Nauru,English,Oceania
+NUen,NU,en,1,OC,Niue,English,Oceania
+NZen,NZ,en,2,OC,New Zealand,English,Oceania
+PGen,PG,en,1,OC,Papua New Guinea,English,Oceania
+PNen,PN,en,1,OC,Pitcairn Islands,English,Oceania
+PWen,PW,en,1,OC,Palau,English,Oceania
+SBen,SB,en,1,OC,Solomon Islands,English,Oceania
+TKen,TK,en,1,OC,Tokelau,English,Oceania
+TOen,TO,en,2,OC,Tonga,English,Oceania
+TVen,TV,en,1,OC,Tuvalu,English,Oceania
+UMen,UM,en,1,OC,U.S. Minor Outlying Islands,English,Oceania
+VUen,VU,en,3,OC,Vanuatu,English,Oceania
+WSen,WS,en,2,OC,Samoa,English,Oceania
+TLpt,TL,pt,1,OC,East Timor,Portuguese,Oceania
+GUes,GU,es,3,OC,Guam,Spanish,Oceania
+ASsm,AS,sm,2,OC,American Samoa,Samoan,Oceania
+WSsm,WS,sm,2,OC,Samoa,Samoan,Oceania
+NCfr,NC,fr,1,OC,New Caledonia,French,Oceania
+PFfr,PF,fr,1,OC,French Polynesia,French,Oceania
+VUfr,VU,fr,3,OC,Vanuatu,French,Oceania
+WFfr,WF,fr,1,OC,Wallis and Futuna,French,Oceania
+FJfj,FJ,fj,4,OC,Fiji,Fijian,Oceania
+FJhi,FJ,hi,4,OC,Fiji,Hindi,Oceania
+FJur,FJ,ur,4,OC,Fiji,Urdu,Oceania
+GUch,GU,ch,3,OC,Guam,Chamorro,Oceania
+MPch,MP,ch,2,OC,Northern Mariana Islands,Chamorro,Oceania
+MHmh,MH,mh,2,OC,Marshall Islands,Marshallese,Oceania
+NRna,NR,na,2,OC,Nauru,Nauruan,Oceania
+NZmi,NZ,mi,2,OC,New Zealand,Maori,Oceania
+TOto,TO,to,2,OC,Tonga,Tonga,Oceania
+VUbi,VU,bi,3,OC,Vanuatu,Bislama,Oceania
+FKen,FK,en,1,SA,Falkland Islands,English,South America
+GYen,GY,en,1,SA,Guyana,English,South America
+BRpt,BR,pt,1,SA,Brazil,Portuguese,South America
+ARes,AR,es,2,SA,Argentina,Spanish,South America
+BOes,BO,es,3,SA,Bolivia,Spanish,South America
+CLes,CL,es,1,SA,Chile,Spanish,South America
+COes,CO,es,1,SA,Colombia,Spanish,South America
+ECes,EC,es,1,SA,Ecuador,Spanish,South America
+PEes,PE,es,1,SA,Peru,Spanish,South America
+PYes,PY,es,2,SA,Paraguay,Spanish,South America
+UYes,UY,es,1,SA,Uruguay,Spanish,South America
+VEes,VE,es,1,SA,Venezuela,Spanish,South America
+ARgn,AR,gn,2,SA,Argentina,Guarani,South America
+PYgn,PY,gn,2,SA,Paraguay,Guarani,South America
+SRnl,SR,nl,1,SA,Suriname,Dutch,South America
+GFfr,GF,fr,1,SA,French Guiana,French,South America
+BOay,BO,ay,3,SA,Bolivia,Aymara,South America
+BOqu,BO,qu,3,SA,Bolivia,Quechua,South America
+GSen,GS,en,1,AN,South Georgia and the South Sandwich Islands,English,Antarctica
+HMen,HM,en,1,AN,Heard Island and McDonald Islands,English,Antarctica
+TFfr,TF,fr,1,AN,French Southern Territories,French,Antarctica
+BVno,BV,no,3,AN,Bouvet Island,Norwegian,Antarctica
+BVnn,BV,nn,3,AN,Bouvet Island,Norwegian Nynorsk,Antarctica
