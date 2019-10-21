@@ -88,4 +88,4 @@ resulting file:
 *DFtweets.csv:*  dataframe of tweets with info of user, location, date of creation and text
 
 ### 3.3  Classify comments and see results
-Notebook **3Comments_classifier.ipynb**, where we preprocess the text of tweet, it is classified in positive or negative comments and a table of results by location is presented
+Notebook **3-1tweets_comments_classifier.ipynb**, where we preprocess the text of tweet, it is classified in positive or negative comments and a table of results by location is presented
