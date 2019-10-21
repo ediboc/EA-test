@@ -39,3 +39,11 @@ This is the same analysis for groups 3, 4 and 5.
 
 ### Notebook: 2-2Cluster_languages.ipynb
 Clustering by language and top 20 players
+
+We get 7 clusters where cluster 1 are the languages that produces the best players and whose performance is similar.
+
+### Qlik dashboard: EA-test_Countries_Clusters.qvf
+To display metrics of players, teams and countries based on country clusters.
+
+### Qlik dashboard: EA-test_Language_Clusters.qvf
+To display metrics by lannguage clusters.
