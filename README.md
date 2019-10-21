@@ -52,7 +52,12 @@ Note: there is a file 'dashboard print screen.doc'
 
 ## Objective 3: Sentiment Analysis of FIFA20
 
-In order to get the sentiment analysis, we need to classify comments as positive or negative
+In order to get the sentiment analysis:
+1) First we have to classify the comments as positive or negative.
+2) Get comments from a social network
+3) Classify comments and see results
 
 
-
+### 3.1 Generate a classifier: 
+In the folder NLP_movie we will create a classifier based on nltk movie_reviews data
+On notebook **NLP_preprocess.ipynb** is the preprocess of the documents and **NLP_Models.ipynb** is the model generation (LogisticRegression, XGBClassifier, SVC from Sklearn and a Neural Network), where we chose the neural network model because we obtained the highest accuracy.
