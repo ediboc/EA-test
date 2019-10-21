@@ -47,3 +47,10 @@ To display metrics of players, teams and countries based on country clusters.
 
 ### Qlik dashboard: EA-test_Language_Clusters.qvf
 To display metrics by lannguage clusters.
+
+## Objective 3: Sentiment Analysis of FIFA20
+
+In order to get the sentiment analysis, we need to classify comments as positive or negative
+
+
+
