@@ -15,18 +15,22 @@ Here we make a resume for the steps done, all the code was developed in jupyter 
 
 In this notebook we joined the 3 cvs files into one table, after cleaning the data with: elimination of duplicate row, fix numeric variables and wrong values.
 
-*CompleteCSVDataset.csv*: is the result of join PlayerPersonalData.csv, PlayerAttributeData.csv and PlayerPersonalData.
-*ColumnDataIndex.csv*: is a table or dataframe, that contains all the column names from CompleteCSVDataset.csv in the first column and the original table where the column comes from is in the second column.
+resulting files: 
+*CompleteCSVDataset.csv:* is the result of join PlayerPersonalData.csv, PlayerAttributeData.csv and PlayerPersonalData.
+*ColumnDataIndex.csv:* is a table or dataframe, that contains all the column names from CompleteCSVDataset.csv in the first column and the original table where the column comes from is in the second column.
 
 #### Notebook: 1-2-join_JSON.ipynb
 
 In this notebook the 3 json files were joined into one table, the json files were transform into a list of document and the function json_normalize was used to transform it in dataframes
 
-CompleteJSONDataset.csv: is the result of join languages.json, countries.json and continents.json in one data frame.
+resulting file: 
+*CompleteJSONDataset.csv:* is the result of join languages.json, countries.json and continents.json in one data frame.
 
 #### Notebook: 1-3ExploratoryAnalisys.ipynb
 This notebook join the files CompleteCSVDataset.csv and CompleteJSONDataset.csv and make analysis of metrics by language
-CompleteDataLanguage.csv: is the join of players files (CSV) and language (JSON).
+
+resulting file: 
+*CompleteDataLanguage.csv:* is the join of players files (CSV) and language (JSON).
 
 
 #### EAplayers.sqlite3: sqlite database
@@ -36,7 +40,6 @@ Most of the data can be store in a row, the tables have primary key and do not h
 ## Objective 2:Build a Data Visualization of the data FIFA game by country and languages. Clustering to help us for take the best decisions for Localization.
 
 It is important to highlight that there is a big difference in the number of observations between countries or languages, so it is decided to clustering with the best 20 players from each country or language.
-CompCsvCLusters.csv: is the join of CompleteCSVDataset.csv
 
 #### Notebook: 2-1Cluster_countries.ipynb
 Clustering by country and top 20 players
@@ -44,10 +47,16 @@ We get 5 clusters where cluster 1 is the countries that produces the best player
 And the cluster 2 of countries with similar performance and metrics like Overall and Potential slightly smaller than those in group 1.
 This is the same analysis for groups 3, 4 and 5.
 
+resulting file: 
+*CompCsvCLusters.csv:* is the CompleteCSVDataset.csv with the column Cluster_countries added, for players not in the top 20 or others Cluster_countries is 0. 
+
 #### Notebook: 2-2Cluster_languages.ipynb
 Clustering by language and top 20 players
 
 We get 7 clusters where cluster 1 are the languages that produces the best players and whose performance is similar.
+
+resulting file: 
+*languageCLusters.csv*: is dataframe of languagues average metrics and Cluster_language
 
 #### Qlik dashboard: EA-test_Countries_Clusters.qvf
 To display metrics of players, teams and countries based on country clusters.
@@ -69,8 +78,14 @@ In order to get the sentiment analysis:
 In the folder NLP_movie we will create a classifier based on nltk movie_reviews data
 On notebook **NLP_preprocess.ipynb** is the preprocess of the documents and **NLP_Models.ipynb** is the model generation (LogisticRegression, XGBClassifier, SVC from Sklearn and a Neural Network), where we chose the neural network model because we obtained the highest accuracy.
 
+resulting file: 
+*NN_model.h5*:Neural network model used to classify comments
+
 ### 3.2 Get comments from Twitter
 Notebook **Get_tweets.ipynb** where we will get tweets and their location related to FIFA20
+
+resulting file: 
+*DFtweets.csv:*  dataframe of tweets with info of user, location, date of creation and text
 
 ### 3.3  Classify comments and see results
 Notebook **3Comments_classifier.ipynb**, where we preprocess the text of tweet, it is classified in positive or negative comments and a table of results by location is presented
