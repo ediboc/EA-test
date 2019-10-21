@@ -25,3 +25,4 @@ In this notebook the 3 json files were joined into one table, the json files wer
 CompleteJSONDataset.csv: is the result of join languages.json, countries.json and continents.json in one data frame.
 
 #### Notebook: 1-3ExploratoryAnalisys.ipynb
+This notebook join the files CompleteCSVDataset.csv and CompleteJSONDataset.csv and make analysis of metrics by language
