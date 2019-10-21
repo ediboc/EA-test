@@ -61,3 +61,9 @@ In order to get the sentiment analysis:
 ### 3.1 Generate a classifier: 
 In the folder NLP_movie we will create a classifier based on nltk movie_reviews data
 On notebook **NLP_preprocess.ipynb** is the preprocess of the documents and **NLP_Models.ipynb** is the model generation (LogisticRegression, XGBClassifier, SVC from Sklearn and a Neural Network), where we chose the neural network model because we obtained the highest accuracy.
+
+### 3.2 Get comments from Twitter
+Notebook **Get_tweets.ipynb** where we will get tweets and their location related to FIFA20
+
+### 3.3  Classify comments and see results
+Notebook **3Comments_classifier.ipynb**, where we preprocess the text of tweet, it is classified in positive or negative comments and a table of results by location is presented
