@@ -33,3 +33,9 @@ It is important to highlight that there is a big difference in the number of obs
 
 ### Notebook: 2-1Cluster_countries.ipynb
 Clustering by country and top 20 players
+We get 5 clusters where cluster 1 is the countries that produces the best players and whose performance is similar.
+And the cluster 2 of countries with similar performance and metrics like Overall and Potential slightly smaller than those in group 1.
+This is the same analysis for groups 3, 4 and 5.
+
+### Notebook: 2-2Cluster_languages.ipynb
+Clustering by language and top 20 players
