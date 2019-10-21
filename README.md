@@ -15,8 +15,8 @@ Here we make a resume for the steps done, all the code was developed in jupyter 
 
 In this notebook we joined the 3 cvs files into one table, after cleaning the data with: elimination of duplicate row, fix numeric variables and wrong values.
 
-CompleteCSVDataset.csv: is the result of join PlayerPersonalData.csv, PlayerAttributeData.csv and PlayerPersonalData.
-ColumnDataIndex.csv: is a table or dataframe, that contains all the column names from CompleteCSVDataset.csv in the first column and the original table where the column comes from is in the second column.
+**CompleteCSVDataset.csv**: is the result of join PlayerPersonalData.csv, PlayerAttributeData.csv and PlayerPersonalData.
+**ColumnDataIndex.csv**: is a table or dataframe, that contains all the column names from CompleteCSVDataset.csv in the first column and the original table where the column comes from is in the second column.
 
 #### Notebook: 1-2-join_JSON.ipynb
 
@@ -26,6 +26,7 @@ CompleteJSONDataset.csv: is the result of join languages.json, countries.json an
 
 #### Notebook: 1-3ExploratoryAnalisys.ipynb
 This notebook join the files CompleteCSVDataset.csv and CompleteJSONDataset.csv and make analysis of metrics by language
+CompleteDataLanguage.csv: is the join of players files (CSV) and language (JSON).
 
 
 #### EAplayers.sqlite3: sqlite database
@@ -35,6 +36,7 @@ Most of the data can be store in a row, the tables have primary key and do not h
 ## Objective 2:Build a Data Visualization of the data FIFA game by country and languages. Clustering to help us for take the best decisions for Localization.
 
 It is important to highlight that there is a big difference in the number of observations between countries or languages, so it is decided to clustering with the best 20 players from each country or language.
+CompCsvCLusters.csv: is the join of CompleteCSVDataset.csv
 
 #### Notebook: 2-1Cluster_countries.ipynb
 Clustering by country and top 20 players
