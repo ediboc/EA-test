@@ -88,4 +88,10 @@ resulting file:
 *DFtweets.csv:*  dataframe of tweets with info of user, location, date of creation and text
 
 ### 3.3  Classify comments and see results
-Notebook **3-1tweets_comments_classifier.ipynb**, where we preprocess the text of tweet, it is classified in positive or negative comments and a table of results by location is presented
+Notebook **3-1tweets_comments_classifier.ipynb**, where we preprocess tweet texts, it is classified as positive or negative comments and a table of results is presented by location 
+
+### 3.4 additiona: get comments from youtube videos and classify them
+This comments have no information about location
+Notebook **Get_youtube_comments.ipynb** where we will get comments in videos related to FIFA20
+Notebook **3-2youtube_comments_classifier.ipynb** where we preprocess videos comments, it is classified as positive or negative comments and a table of results is presented by video.
+
