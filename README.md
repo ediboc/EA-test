@@ -13,15 +13,15 @@ Here we make a resume for the steps done, all the code was developed in jupyter 
 
 #### Notebook: 1-1-joinCSV.ipynb
 
-In this notebook we joined the 3 cvs files into one table, after cleaning the data with: elimination of duplicate row, fix numeric variables and wrong values.
+In this notebook we joined the 3 cvs files into one table, after cleaning the data with: delete repeated rows, fix numeric variables and wrong values.
 
 resulting files: 
 *CompleteCSVDataset.csv:* is the result of join PlayerPersonalData.csv, PlayerAttributeData.csv and PlayerPersonalData.
-*ColumnDataIndex.csv:* is a table or dataframe, that contains all the column names from CompleteCSVDataset.csv in the first column and the original table where the column comes from is in the second column.
+*ColumnDataIndex.csv:* is a table or dataframe, that contains all the column names from CompleteCSVDataset.csv in the first column and the original table where the column came from is in the second column.
 
 #### Notebook: 1-2-join_JSON.ipynb
 
-In this notebook the 3 json files were joined into one table, the json files were transform into a list of document and the function json_normalize was used to transform it in dataframes
+In this notebook the 3 json files were joined into one table, the json files were transform into a list of document and the function json_normalize was used to transform intoa  dataframes
 
 resulting file: 
 *CompleteJSONDataset.csv:* is the result of join languages.json, countries.json and continents.json in one data frame.
@@ -34,12 +34,13 @@ resulting file:
 
 
 #### EA-test-database.sql: sqlite database
-Here we export to tables CompCsvClusters.csv as players (primary key ID) and CompleteJSONDataset (primary key ID_ctlg) as country_languages.
-The data observation can be store in a row, the tables have primary key and do not have sub documents, then we can choose a structured database.
+Here we import the tables CompCsvClusters.csv as players (primary key ID) and CompleteJSONDataset (primary key ID_ctlg) as country_languages.
+
+It was chosen a structured database because the data observation can be store in a row, the tables have primary key and do not have sub documents.
  
 ## Objective 2:Build a Data Visualization of the data FIFA game by country and languages. Clustering to help us for take the best decisions for Localization.
 
-It is important to highlight that there is a big difference in the number of observations between countries or languages, so it is decided to clustering with the best 20 players from each country or language.
+It is important to highlight that there is a big difference in the number of observations between countries or languages, so it is decided to clustering with the top 20 players from each country or language.
 
 #### Notebook: 2-1Cluster_countries.ipynb
 Clustering by country and top 20 players
@@ -53,7 +54,7 @@ resulting file:
 #### Notebook: 2-2Cluster_languages.ipynb
 Clustering by language and top 20 players
 
-We get 7 clusters where cluster 1 are the languages that produces the best players and whose performance is similar.
+We get 7 clusters where cluster 1 are the languages that produces the best players and whose performances or metrics are similar.
 
 resulting file: 
 *languageCLusters.csv*: is dataframe of languagues average metrics and Cluster_language
@@ -76,13 +77,13 @@ In order to get the sentiment analysis:
 
 ### 3.1 Generate a classifier: 
 In the folder NLP_movie we will create a classifier based on nltk movie_reviews data
-On notebook **NLP_preprocess.ipynb** is the preprocess of the documents and **NLP_Models.ipynb** is the model generation (LogisticRegression, XGBClassifier, SVC from Sklearn and a Neural Network), where we chose the neural network model because we obtained the highest accuracy.
+On notebook **NLP_preprocess.ipynb** is the preprocess of the documents and **NLP_Models.ipynb** is the model generation (LogisticRegression, XGBClassifier, SVC from Sklearn and a Neural Network), where we chose the neural network model because with this model we obtained the highest accuracy.
 
 resulting file: 
 *NN_model.h5*:Neural network model used to classify comments
 
 ### 3.2 Get comments from Twitter
-Notebook **Get_tweets.ipynb** where we will get tweets and their location related to FIFA20, saved in the file tweetsDB.csv
+Notebook **Get_tweets.ipynb** where we will get tweets and their location related to FIFA20.
 
 resulting file: 
 *DFtweets.csv:*  dataframe of tweets with info of user, location, date of creation and text
