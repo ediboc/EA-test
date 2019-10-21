@@ -31,22 +31,24 @@ This notebook join the files CompleteCSVDataset.csv and CompleteJSONDataset.csv 
 
 It is important to highlight that there is a big difference in the number of observations between countries or languages, so it is decided to clustering with the best 20 players from each country or language.
 
-### Notebook: 2-1Cluster_countries.ipynb
+#### Notebook: 2-1Cluster_countries.ipynb
 Clustering by country and top 20 players
 We get 5 clusters where cluster 1 is the countries that produces the best players and whose performance is similar.
 And the cluster 2 of countries with similar performance and metrics like Overall and Potential slightly smaller than those in group 1.
 This is the same analysis for groups 3, 4 and 5.
 
-### Notebook: 2-2Cluster_languages.ipynb
+#### Notebook: 2-2Cluster_languages.ipynb
 Clustering by language and top 20 players
 
 We get 7 clusters where cluster 1 are the languages that produces the best players and whose performance is similar.
 
-### Qlik dashboard: EA-test_Countries_Clusters.qvf
+#### Qlik dashboard: EA-test_Countries_Clusters.qvf
 To display metrics of players, teams and countries based on country clusters.
 
-### Qlik dashboard: EA-test_Language_Clusters.qvf
+#### Qlik dashboard: EA-test_Language_Clusters.qvf
 To display metrics by lannguage clusters.
+
+Note: there is a file 'dashboard print screen.doc'
 
 ## Objective 3: Sentiment Analysis of FIFA20
 
