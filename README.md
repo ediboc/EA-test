@@ -5,7 +5,7 @@
 
 The developed of this test was done with colab in a Google Drive platform if you want acces to the drive and run these notebooks ask at ediboc@gmail.com (only test evaluators)
 
-The transformation of data was done with pandas library  and the final tables were import to sqlite . This can be done manually or with the library sqlite3.
+The transformation of data was done with pandas library  and the final tables were import to MySQL . This can be done manually or with the python library mysql.
 
 Here we make a resume for the steps done, all the code was developed in jupyter notebooks and there you will find comments for further details
 
@@ -33,9 +33,9 @@ resulting file:
 *CompleteDataLanguage.csv:* is the join of players files (CSV) and language (JSON).
 
 
-#### EAplayers.sqlite3: sqlite database
-Here we export to tables CompCsvClusters.csv as players (primary key ID) and CompleteJSONDataset (primary key ID_ctlg)
-Most of the data can be store in a row, the tables have primary key and do not have sub documents, then we can choose a structured database.
+#### EA-test-database.sql: sqlite database
+Here we export to tables CompCsvClusters.csv as players (primary key ID) and CompleteJSONDataset (primary key ID_ctlg) as country_languages.
+The data observation can be store in a row, the tables have primary key and do not have sub documents, then we can choose a structured database.
  
 ## Objective 2:Build a Data Visualization of the data FIFA game by country and languages. Clustering to help us for take the best decisions for Localization.
 
