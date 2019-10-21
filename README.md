@@ -98,4 +98,4 @@ Notebook **Get_youtube_comments.ipynb** where we will get comments in videos rel
 Notebook **3-2youtube_comments_classifier.ipynb** where we preprocess videos comments, it is classified as positive or negative comments and a table of results is presented by video.
 
 #### Issues and Improvement opportunities: 
-It can be found in a word document with the same name
+It can be found on a word document with the same name
