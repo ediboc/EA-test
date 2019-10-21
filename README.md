@@ -82,7 +82,7 @@ resulting file:
 *NN_model.h5*:Neural network model used to classify comments
 
 ### 3.2 Get comments from Twitter
-Notebook **Get_tweets.ipynb** where we will get tweets and their location related to FIFA20
+Notebook **Get_tweets.ipynb** where we will get tweets and their location related to FIFA20, saved in the file tweetsDB.csv
 
 resulting file: 
 *DFtweets.csv:*  dataframe of tweets with info of user, location, date of creation and text
@@ -92,6 +92,8 @@ Notebook **3-1tweets_comments_classifier.ipynb**, where we preprocess tweet text
 
 ### 3.4 additiona: get comments from youtube videos and classify them
 This comments have no information about location
-Notebook **Get_youtube_comments.ipynb** where we will get comments in videos related to FIFA20
+
+Notebook **Get_youtube_comments.ipynb** where we will get comments in videos related to FIFA20, saved in the file ytComments_translated.csv.
+
 Notebook **3-2youtube_comments_classifier.ipynb** where we preprocess videos comments, it is classified as positive or negative comments and a table of results is presented by video.
 
