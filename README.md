@@ -15,8 +15,8 @@ Here we make a resume for the steps done, all the code was developed in jupyter 
 
 In this notebook we joined the 3 cvs files into one table, after cleaning the data with: elimination of duplicate row, fix numeric variables and wrong values.
 
-**CompleteCSVDataset.csv**: is the result of join PlayerPersonalData.csv, PlayerAttributeData.csv and PlayerPersonalData.
-**ColumnDataIndex.csv**: is a table or dataframe, that contains all the column names from CompleteCSVDataset.csv in the first column and the original table where the column comes from is in the second column.
+*CompleteCSVDataset.csv*: is the result of join PlayerPersonalData.csv, PlayerAttributeData.csv and PlayerPersonalData.
+*ColumnDataIndex.csv*: is a table or dataframe, that contains all the column names from CompleteCSVDataset.csv in the first column and the original table where the column comes from is in the second column.
 
 #### Notebook: 1-2-join_JSON.ipynb
 
