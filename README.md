@@ -27,6 +27,11 @@ CompleteJSONDataset.csv: is the result of join languages.json, countries.json an
 #### Notebook: 1-3ExploratoryAnalisys.ipynb
 This notebook join the files CompleteCSVDataset.csv and CompleteJSONDataset.csv and make analysis of metrics by language
 
+
+#### EAplayers.sqlite3: sqlite database
+Here we export to tables CompCsvClusters.csv as players (primary key ID) and CompleteJSONDataset (primary key ID_ctlg)
+Most of the data can be store in a row, the tables have primary key and do not have sub documents, then we can choose a structured database.
+ 
 ## Objective 2:Build a Data Visualization of the data FIFA game by country and languages. Clustering to help us for take the best decisions for Localization.
 
 It is important to highlight that there is a big difference in the number of observations between countries or languages, so it is decided to clustering with the best 20 players from each country or language.
