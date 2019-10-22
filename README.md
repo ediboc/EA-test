@@ -91,7 +91,7 @@ resulting file:
 ### 3.3  Classify comments and see results
 Notebook **3-1tweets_comments_classifier.ipynb**, where we preprocess tweet texts, it is classified as positive or negative comments and a table of results is presented by location 
 
-### 3.4 additiona: get comments from youtube videos and classify them
+### 3.4 additional: get comments from youtube videos and classify them
 This comments have no information about location
 
 Notebook **Get_youtube_comments.ipynb** where we will get comments in videos related to FIFA20, saved in the file ytComments_translated.csv.
